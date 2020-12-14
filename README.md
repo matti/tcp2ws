@@ -1,6 +1,6 @@
 # tcp2ws
 
-Forwards all tcp traffic to websocket server
+Proxies all tcp traffic to websocket server
 
 ```
 $ go get github.com/matti/tcp2ws
